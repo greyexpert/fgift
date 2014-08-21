@@ -3,7 +3,7 @@ Favorite Gift
 
 Allows users show one of their gifts on the avatar image. 
 
-** Integrated with: **
+**Integrated with:**
 
 * Virtual Gifts
 * Notifications
@@ -13,6 +13,6 @@ Allows users show one of their gifts on the avatar image.
 * User Credits
 * User roles
 
-** Requirements: **
+**Requirements:**
 
 * Virtual Gifts
