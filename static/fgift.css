@@ -1,0 +1,27 @@
+.fgift-gift {
+    display: block;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+.fgift-gift img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.fgifts-ipc .ow_ipc_toolbar .ow_delimiter {
+    display: inline-block;
+}
+
+.ow_avatar_console .fgift-gift {
+    top: 0px;
+    left: 0px;
+}
+
+.uh-avatar-console .fgift-gift {
+    top: -30px;
+    left: -15px;
+}
