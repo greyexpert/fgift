@@ -5,6 +5,7 @@
     height: 60px;
     overflow: hidden;
     border-radius: 3px;
+    z-index: 1;
 }
 
 .fgift-gift img {
